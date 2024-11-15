@@ -1,4 +1,9 @@
 ## Ex.No:7 Develop an android application to display the country name with image using list view in android studio.
+Developed by:Divya R
+
+Registeration Number : 212222040040
+
+Date:30/9/24
 ## AIM:
 To create and develop the application to display the place name with image using list view in android studio
 
@@ -24,10 +29,6 @@ Step 7: Save and run the application.
 
 /*
 Program to print the list of item.
-
-Developed by:Divya R
-
-Registeration Number : 212222040040
 */
 
 ## ACTIVITY_MAIN.XML
