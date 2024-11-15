@@ -26,7 +26,6 @@ Step 6: Get contacts details and Display details give in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
-
 /*
 Program to print the list of item.
 */
@@ -66,7 +65,6 @@ android:textColor="#4d4d4d"
     />
 ```
 ## STRINGS.XML
-
 ```
 <resources>
     <string name="app_name">ListView</string>
